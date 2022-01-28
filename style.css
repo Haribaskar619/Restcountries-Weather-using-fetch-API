@@ -1,0 +1,42 @@
+body{
+     background-color: rgb(0, 54, 54);
+ }
+ .card{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+ }
+ .card-header{
+     background-color: black;
+     color: white;
+     text-align: center;
+     border-radius: 5px;
+     font-family: 'Saira Condensed', sans-serif;
+     justify-content: center;
+ }
+ .card-body{
+    text-align: center;
+    text-indent: 5px;
+    line-height: 12px;
+    background-image: linear-gradient(to right, #fffcda, #bbcfb0, #7ba28f, #407571, #024a55);
+    color: white;
+    font-family: 'Saira Condensed', sans-serif;     
+ }
+ .btn.btn-primary{
+     align-items: center;
+     background-color: none;
+     color: white;
+     font-family: 'Saira Condensed', sans-serif;
+ }
+.card{
+    margin-bottom: 25px;
+ }
+ .card-title1{
+     margin-top: 10px;
+ }
+ h1{
+     color: white;
+ }
+ .col-sm-6.col-md-4.col-lg-4.col-xl-4{
+     margin-bottom: 20px;
+ } 
